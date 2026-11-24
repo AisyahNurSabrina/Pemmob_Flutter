@@ -18,11 +18,11 @@
     <tr>
       <td>Pertemuan 2</td>
       <td>
-        <a href="images/image1.png">
-        <a href="images/image2.png">
-        <a href="images/image3.png">
-        <a href="images/image4.png">
-        <a href="images/image5.png">
+        <a href="images/image1.png" width="250">
+        <a href="images/image2.png" width="250">
+        <a href="images/image3.png" width="250">
+        <a href="images/image4.png" width="250">
+        <a href="images/image5.png" width="250">
         </a>
       </td>
     </tr>
