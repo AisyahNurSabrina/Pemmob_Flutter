@@ -68,11 +68,6 @@ Pada pertemuan kedua dilakukan implementasi berbagai widget Flutter untuk memban
 4. Pembuatan halaman Detail Produk.
 5. Implementasi ListView untuk menampilkan daftar produk.
 
-### Dokumentasi
-Screen recording hasil praktikum dapat dilihat melalui tautan berikut:
-
-[Screen Recording Pertemuan 2](images/screenrecording_1.mp4)
-
 ---
 
 ## Pertemuan 3 – Routes, Side Menu, Login dan Local Storage
