@@ -16,24 +16,30 @@
   </thead>
   <tbody>
     <tr>
+      <td>Pertemuan 1</td>
+      <td>
+        <img src="images/images_1.png" width="250">
+        <img src="images/images_2.png" width="250">
+      </td>
+    </tr>
+    <tr>
       <td>Pertemuan 2</td>
       <td>
-        <a href="images/image1.png" width="250">
-        <a href="images/image2.png" width="250">
-        <a href="images/image3.png" width="250">
-        <a href="images/image4.png" width="250">
-        <a href="images/image5.png" width="250">
-        </a>
+        <img src="images/image1.png" width="200">
+        <img src="images/image2.png" width="200">
+        <img src="images/image3.png" width="200">
+        <img src="images/image4.png" width="200">
+        <img src="images/image5.png" width="200">
       </td>
     </tr>
     <tr>
       <td>Pertemuan 3</td>
       <td>
-        <img src="images/image6.png" width="250">
-        <img src="images/image7.png" width="250">
-        <img src="images/image8.png" width="250">
-        <img src="images/image9.png" width="250">
-        <img src="images/image10.png" width="250">
+        <img src="images/image6.png" width="200">
+        <img src="images/image7.png" width="200">
+        <img src="images/image8.png" width="200">
+        <img src="images/image9.png" width="200">
+        <img src="images/image10.png" width="200">
       </td>
     </tr>
   </tbody>
@@ -44,9 +50,11 @@
 ## Pertemuan 1 – Pengenalan Flutter
 
 ### Deskripsi
+
 Pada pertemuan pertama dilakukan pengenalan framework Flutter serta pembuatan aplikasi sederhana menggunakan bahasa pemrograman Dart.
 
 ### Materi yang Dipelajari
+
 1. Pengenalan framework Flutter.
 2. Pembuatan project Flutter.
 3. Pengenalan StatelessWidget dan StatefulWidget.
@@ -59,9 +67,11 @@ Pada pertemuan pertama dilakukan pengenalan framework Flutter serta pembuatan ap
 ## Pertemuan 2 – Desain Framework Flutter
 
 ### Deskripsi
+
 Pada pertemuan kedua dilakukan implementasi berbagai widget Flutter untuk membangun tampilan aplikasi, termasuk penggunaan form, detail produk, dan daftar produk.
 
 ### Materi yang Dipelajari
+
 1. Penggunaan widget Column.
 2. Penggunaan widget Row.
 3. Pembuatan Form Produk.
@@ -73,6 +83,7 @@ Pada pertemuan kedua dilakukan implementasi berbagai widget Flutter untuk memban
 ## Pertemuan 3 – Routes, Side Menu, Login dan Local Storage
 
 ### Deskripsi
+
 Pada pertemuan ketiga dilakukan pengembangan aplikasi Flutter dengan menerapkan sistem login, navigasi antarhalaman (routes), side menu menggunakan Drawer, serta penyimpanan data lokal menggunakan SharedPreferences.
 
 ### Fitur yang Diimplementasikan
